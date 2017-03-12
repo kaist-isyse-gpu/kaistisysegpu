@@ -2,6 +2,7 @@
 For the purpose to utilize GPU servers in KAIST ISysE. 
 
 You can utilize 'Introduction to Artificial Intelligence and Machine Learning' lectures by Prof. Moon.
+/n
 GitHub URL: https://github.com/aailabkaist/Introduction-to-Artificial-Intelligence-Machine-Learning
 
 
