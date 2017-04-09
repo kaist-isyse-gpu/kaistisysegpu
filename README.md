@@ -8,3 +8,4 @@ GitHub URL: https://github.com/aailabkaist/Introduction-to-Artificial-Intelligen
 You can find online lectures on YouTube.  
 Lecuture Video URL: https://www.youtube.com/channel/UC9caTTXVw19PtY07es58NDg
 
+For your information, please see 'Notice' in 'Wiki' tap!!
